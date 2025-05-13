@@ -7,7 +7,7 @@ https://github.com/josean-dev/dev-environment-files#sketchybar-custom-menu-bar-s
 
 ---
 
-## Ubuntu
+## Ubuntu nvim
 ```
 sudo apt update
 sudo apt install build-essential cmake unzip curl ripgrep fd-find -y
