@@ -47,5 +47,18 @@ nvim --version
 ## Copilot
 use `:Copilot auth`
 
-## LazyGit
+## LazyGit - GitHub
 `sudo pacman -S lazygit`
+
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+
+cat ~/.ssh/id_ed25519.pub
+
+go to "https://github.com/settings/keys"
+
+git remote set-url origin git@github.com:USERNAME/REPO.git
+```
