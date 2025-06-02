@@ -46,3 +46,6 @@ nvim --version
 
 ## Copilot
 use `:Copilot auth`
+
+## LazyGit
+`sudo pacman -S lazygit`
