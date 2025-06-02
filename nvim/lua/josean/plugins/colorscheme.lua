@@ -41,5 +41,6 @@ return {
     })
 
     vim.cmd("colorscheme tokyonight")
+    vim.api.nvim_set_hl(0, "CopilotSuggestion", { fg = "#7aa2f7", italic = true })
   end,
 }
