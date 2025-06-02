@@ -43,3 +43,6 @@ sudo make install
 # Verify install
 nvim --version
 ```
+
+## Copilot
+use `:Copilot auth
