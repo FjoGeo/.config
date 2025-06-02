@@ -45,4 +45,4 @@ nvim --version
 ```
 
 ## Copilot
-use `:Copilot auth
+use `:Copilot auth`
