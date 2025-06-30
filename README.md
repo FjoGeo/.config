@@ -62,3 +62,8 @@ go to "https://github.com/settings/keys"
 
 git remote set-url origin git@github.com:USERNAME/REPO.git
 ```
+
+
+## Yazi
+[Video](https://www.youtube.com/watch?v=iKb3cHDD9hw&list=LL&index=5&t=50s)
+[Home](https://yazi-rs.github.io/)
