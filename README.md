@@ -67,3 +67,9 @@ git remote set-url origin git@github.com:USERNAME/REPO.git
 ## Yazi
 [Video](https://www.youtube.com/watch?v=iKb3cHDD9hw&list=LL&index=5&t=50s)
 [Home](https://yazi-rs.github.io/)
+
+
+## TMUX
+```bash
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
